@@ -1,22 +1,27 @@
 {
   "files": {
-    "main.css": "/gpt3_OpenAI/static/css/main.1b2734d6.css",
-    "main.js": "/gpt3_OpenAI/static/js/main.5b7fed1d.js",
-    "static/media/ai.png": "/gpt3_OpenAI/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/gpt3_OpenAI/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/gpt3_OpenAI/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/gpt3_OpenAI/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/gpt3_OpenAI/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/gpt3_OpenAI/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/gpt3_OpenAI/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/gpt3_OpenAI/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/gpt3_OpenAI/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "main.css": "/gpt3_OpenAI/static/css/main.96bec30c.css",
+    "main.js": "/gpt3_OpenAI/static/js/main.83f31c1d.js",
+    "static/media/blog01.webp": "/gpt3_OpenAI/static/media/blog01.a69dce9af6faef6492de.webp",
+    "static/media/possibility.webp": "/gpt3_OpenAI/static/media/possibility.8edc935ea7d8563c6b08.webp",
+    "static/media/ai.webp": "/gpt3_OpenAI/static/media/ai.da43bb544dde434e12ff.webp",
+    "static/media/blog04.webp": "/gpt3_OpenAI/static/media/blog04.e57195a7233c03f4319b.webp",
+    "static/media/blog03.webp": "/gpt3_OpenAI/static/media/blog03.aef3b0e7f85ca3ae6009.webp",
+    "static/media/blog05.webp": "/gpt3_OpenAI/static/media/blog05.1808b22537ee865c4483.webp",
+    "static/media/blog02.webp": "/gpt3_OpenAI/static/media/blog02.d7dbbc815b4f462139e1.webp",
+    "static/media/people.webp": "/gpt3_OpenAI/static/media/people.cacc1c44f4e121a57425.webp",
+    "static/media/atlassian.webp": "/gpt3_OpenAI/static/media/atlassian.f2e0022662c3c262eb19.webp",
+    "static/media/dropbox.webp": "/gpt3_OpenAI/static/media/dropbox.a343e23f3bbd4b31129b.webp",
+    "static/media/shopify.webp": "/gpt3_OpenAI/static/media/shopify.495a6e31fd200e159745.webp",
+    "static/media/slack.webp": "/gpt3_OpenAI/static/media/slack.f9592d915678df2da797.webp",
+    "static/media/google.webp": "/gpt3_OpenAI/static/media/google.a5811aba942daf3a6226.webp",
+    "static/media/logo.webp": "/gpt3_OpenAI/static/media/logo.2fd80078fa9ca3801458.webp",
     "index.html": "/gpt3_OpenAI/index.html",
-    "main.1b2734d6.css.map": "/gpt3_OpenAI/static/css/main.1b2734d6.css.map",
-    "main.5b7fed1d.js.map": "/gpt3_OpenAI/static/js/main.5b7fed1d.js.map"
+    "main.96bec30c.css.map": "/gpt3_OpenAI/static/css/main.96bec30c.css.map",
+    "main.83f31c1d.js.map": "/gpt3_OpenAI/static/js/main.83f31c1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b2734d6.css",
-    "static/js/main.5b7fed1d.js"
+    "static/css/main.96bec30c.css",
+    "static/js/main.83f31c1d.js"
   ]
 }
